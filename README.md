@@ -1,12 +1,12 @@
+#####Built this blog following a tutorial while learning React.  I redisgned the layout and routes, however I left most of the functionality the same.  I plan to add comment sections and subscriber option.
+
+
 #React Universal Blog
 #####[View a demo here](http://react-universal-blog.cosmicapp.co/)
 [Sign up for Cosmic JS](https://cosmicjs.com/) to start managing content for your websites and applications faster and easier.
 
 #####About
 The React Universal Blog is a portfolio blog app that renders html on the server to make all pages visible to search engines. Then after initial load from the server, it is converted to a single page application to allow for fast navigation between pages.  
-
-#####Notes
-I tried to keep the organization as simple as possible.  There are no client, server or shared component folders.  All components are shared and the only difference between client and server are the entry points (app-client.js, app-server.js and app.js). 
 
 It uses the following:
 <br>
